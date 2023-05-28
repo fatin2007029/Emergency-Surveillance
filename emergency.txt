@@ -1,0 +1,7 @@
+Welcome to the project.
+This service , for the time being , is only available for the inhabitants of mirpur,cantonment & motijheel.
+ Press 1 for ambulance.
+ Press 2 for firetruck.
+Press 3 for calling police
+Press 4 for calling rescue team
+Press any number other than 1/2/3/4  to exit
