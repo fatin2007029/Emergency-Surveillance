@@ -1,7 +1,7 @@
 # Emergency-Surveillance
 A brief introduction on project : 
 
- The project titled "Emergency surveilance" resembles to a console application programme  deals with different emergency aspects , for instance - ambulance, fire-service , police and rescue troops ardently required at the time of need. The ultimate goal is satisfy the urge of emergency situations of  general mass at the time of need  by providing appropraite contact info and other stuffs . Specifically , this service (for the time being) is only applicable for three cosmopoliton areas of Dhaka city , namely: mirpur , cantonment & motijheel . 
+ The project titled "Emergency surveilance" resembles to a console application programme which deals with different emergency aspects , for instance - ambulance, fire-service , police and rescue troops ardently required at the time of need. The ultimate goal is satisfy the urge of emergency situations of  general mass at the time of need  by providing appropraite contact info and other stuffs . Specifically , this service (for the time being) is only applicable for three cosmopoliton areas of Dhaka city , namely: mirpur , cantonment & motijheel . 
  
  
  OOP concepts that were implemented: 
